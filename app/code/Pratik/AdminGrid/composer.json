@@ -1,0 +1,16 @@
+{
+    "name": "pratik/module-admin-grid",
+    "description": "This is test module",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Pratik\\AdminGrid\\": ""
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "pratik_admin_grid": {
+        "column": {
+            "entity_id": true,
+            "created_at": true,
+            "updated_at": true,
+            "name": true,
+            "image": true,
+            "description": true,
+            "link_to": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
